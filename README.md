@@ -1,5 +1,6 @@
 # 💯Days of pyhton 🐍
 ### Hi folks this is 100 days python coding challenge we are creating a projects for what we learn on that day.
+* All my codes are written in [Replit.com](https://replit.com/ "Replit.com") so you can directly click on below topics and you can see code and output there 😊.
 ## Day 1️⃣:
 * [print()](https://replit.com/@subramanyagb/01-Printing#main.py "print()")
 * [String Manipulation](https://replit.com/@subramanyagb/02-String-manipulaltion#main.py "String Manipulation")
