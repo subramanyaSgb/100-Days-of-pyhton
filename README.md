@@ -1,2 +1,6 @@
-# 100-Days-of-pyhton
-This is 100 Days Pyhton coding challenge. 
+# 💯Days of pyhton 🐍
+### Hi folks this is 100 days python coding challenge we are creating a projects for what we learn on that day.
+## Day 1️⃣:
+* print()
+* String Manipulation
+* Input Function
