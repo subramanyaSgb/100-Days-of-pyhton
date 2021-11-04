@@ -12,3 +12,13 @@
 * #### Exercise 03 : [Inputs](https://replit.com/@subramanyagb/Exercise-3 "Inputs")
 * #### Exercise 04 : [Variables](https://replit.com/@subramanyagb/Exercise-4 "Variables")
 * ### Project 01 : [Band Name Generator](https://replit.com/@subramanyagb/01-BrandNameGenerator "Band Name Generator")
+
+# Day 2️⃣:
+* [Data Type](https://replit.com/@subramanyagb/day-2-start?v=1 "Data Type")
+* [Type Conversion](https://replit.com/@subramanyagb/Day-2-End "Type Conversion")
+* [Methematical Operations](https://replit.com/@subramanyagb/Day-2-2 "Methematical Operations")
+* [Number Manupulation and F strings](https://replit.com/@subramanyagb/Number-Manupulation "Number Manupulation and F strings")
+* #### Exercise 01 : [Data Type](https://replit.com/@subramanyagb/day-2-1-exercise "Data Type").
+* #### Exercise 02 : [BMI Calculator](https://replit.com/@subramanyagb/day-2-2-exercise "BMI Calculator").
+* #### Exercise 03 : [Your Life in Weeks](https://replit.com/@subramanyagb/day-2-3-test-your-code "Your Life in Weeks").
+* ### Project 02 : [Tip Calculator](https://replit.com/@subramanyagb/tip-calculator-start "Tip Calculator")
