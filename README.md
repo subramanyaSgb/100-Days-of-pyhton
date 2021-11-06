@@ -35,3 +35,11 @@
 * #### Exercise 05 : [❤️ Calculator](https://replit.com/@subramanyagb/day-3-5-exercise#main.py "❤️ Calculator").
 * ### Project 03 : [🪙Treasure🏴‍☠️Islandi🏝️](https://replit.com/@subramanyagb/treasure-island-start "🪙Treasure🏴‍☠️Islandi🏝️")
 
+# Day 4️⃣:
+* [🎲Randomisation](https://replit.com/@subramanyagb/day-4-start "🎲Randomisation").
+* [📃List](https://replit.com/@subramanyagb/lists "📃List").
+* [📃Nested List](https://replit.com/@subramanyagb/day-4-end "📃Nested List")
+* #### Exercise 01 : [🪙Heads or Tails](https://replit.com/@subramanyagb/day-4-1-exercise "🪙 Heads or Tails").
+* #### Exercise 02 : [💵Who is Paying](https://replit.com/@subramanyagb/day-4-2-exercise "💵Who is Paying").
+* #### Exercise 03 : [🗺️Treasure Map Exercise](https://replit.com/@subramanyagb/day-4-3-exercise#main.py "🗺️Treasure Map Exercise").
+* ### Project 04 : [✊Rock Paper Scissor](https://replit.com/@subramanyagb/rock-paper-scissors-start-1#main.py "✊Rock Paper Scissor").
