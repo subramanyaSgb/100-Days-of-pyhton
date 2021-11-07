@@ -45,5 +45,9 @@
 * ### Project 04 : [✊Rock Paper Scissor](https://replit.com/@subramanyagb/rock-paper-scissors-start-1#main.py "✊Rock Paper Scissor").
 
 # Day 5️⃣:
-* [➿ Loops](https://replit.com/@subramanyagb/day-5-end#main.py "➿ Loops").
-* #### Exercise 01: [⬆️Average Height](https://replit.com/@subramanyagb/day-5-1-exercise#main.py "⬆️Average Height")
+* [➿ Loops](https://replit.com/@subramanyagb/day-5-end "➿ Loops").
+* #### Exercise 01: [⬆️Average Height](https://replit.com/@subramanyagb/day-5-1-exercise "⬆️Average Height").
+* #### Exercise 02: [🥇Highest score](https://replit.com/@subramanyagb/day-5-2-exercise "🥇Highest score").
+* #### Exercise 03: [➕Adding Evens](https://replit.com/@subramanyagb/day-5-3-exercise "➕Adding Evens").
+* #### Exercies 04: [⚡FizzBuzz](https://replit.com/@subramanyagb/day-5-4-exercise "⚡FizzBuzz").
+* ### Project 05: [🔑Password Generator](https://replit.com/@subramanyagb/password-generator-end "🔑Password Generator")
