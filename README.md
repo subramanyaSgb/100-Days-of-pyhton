@@ -43,3 +43,7 @@
 * #### Exercise 02 : [💵Who is Paying](https://replit.com/@subramanyagb/day-4-2-exercise "💵Who is Paying").
 * #### Exercise 03 : [🗺️Treasure Map Exercise](https://replit.com/@subramanyagb/day-4-3-exercise#main.py "🗺️Treasure Map Exercise").
 * ### Project 04 : [✊Rock Paper Scissor](https://replit.com/@subramanyagb/rock-paper-scissors-start-1#main.py "✊Rock Paper Scissor").
+
+# Day 5️⃣:
+* [➿ Loops](https://replit.com/@subramanyagb/day-5-end#main.py "➿ Loops").
+* #### Exercise 01: [⬆️Average Height](https://replit.com/@subramanyagb/day-5-1-exercise#main.py "⬆️Average Height")
