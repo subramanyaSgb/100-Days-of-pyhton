@@ -50,4 +50,11 @@
 * #### Exercise 02: [🥇Highest score](https://replit.com/@subramanyagb/day-5-2-exercise "🥇Highest score").
 * #### Exercise 03: [➕Adding Evens](https://replit.com/@subramanyagb/day-5-3-exercise "➕Adding Evens").
 * #### Exercies 04: [⚡FizzBuzz](https://replit.com/@subramanyagb/day-5-4-exercise "⚡FizzBuzz").
-* ### Project 05: [🔑Password Generator](https://replit.com/@subramanyagb/password-generator-end "🔑Password Generator")
+* ### Project 05: [🔑Password Generator](https://replit.com/@subramanyagb/password-generator-end "🔑Password Generator").
+
+# Day 6️⃣:
+* [🎡Functions](https://replit.com/@subramanyagb/day-6-start "🎡Functions").
+* [Indentation](https://replit.com/@subramanyagb/indentation#main.py "Indentation").
+* [While Loop](https://replit.com/@subramanyagb/Whileloop "While Loop").
+* #### Exercise 01: [Reeborg's World 01](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json "Reeborgs World 01").
+* ### Project 06: MAZE.
