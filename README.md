@@ -58,3 +58,6 @@
 * [While Loop](https://replit.com/@subramanyagb/Whileloop "While Loop").
 * #### Exercise 01: [Reeborg's World 01](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json "Reeborgs World 01").
 * ### Project 06: MAZE.
+
+# Day 7️⃣: 
+* [Hangman Project](https://replit.com/@subramanyagb/Day-7-Hangman-5-Start "Hangman Project").
