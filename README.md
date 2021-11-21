@@ -61,3 +61,7 @@
 
 # Day 7️⃣: 
 * [Hangman Project](https://replit.com/@subramanyagb/Day-7-Hangman-5-Start "Hangman Project").
+
+# Day 8️⃣:
+
+* 
