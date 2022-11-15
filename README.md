@@ -63,7 +63,6 @@
 * [Hangman Project](https://replit.com/@subramanyagb/Day-7-Hangman-5-Start "Hangman Project").
 
 # Day 8️⃣:
-
 * [Functions](https://replit.com/@subramanyagb/day-8-end "Functions").
 * [Area Calculation](https://replit.com/@subramanyagb/day-8-1-exercise-1 "Area Calculation").
 * [Prime Number Checker](https://repl.it/@appbrewery/day-8-2-solution "Prime Number Checker").
